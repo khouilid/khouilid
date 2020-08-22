@@ -1,6 +1,6 @@
 ### Hi there 👋 My name's Abdelkbir khouilid
 
-My name's Abdelkbir khouilid, Junior Web Developer with experience. Being a PHP backend developer it's my goal now, I am also proficient with front-end technologies and frameworks.
+Junior Web Developer with experience. Being a PHP backend developer it's my goal now, I am also proficient with front-end technologies and frameworks.
 I am able to work alone with the client directly and find solutions to  complex tasks,
 
 ## My key knowledge includes:
