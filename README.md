@@ -5,7 +5,7 @@ I am able to work alone or with team and find solutions to  complex tasks,
 
 ## My key knowledge includes:
 - PHP, SQL
-- JavaScript, HTML, CSS, SASS, Boostrap,TailWind.
+- JavaScript, HTML, CSS, SASS, Bootstrap,TailWind.
 - MySQL
 
 
