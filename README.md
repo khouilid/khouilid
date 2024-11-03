@@ -1,12 +1,13 @@
-### Hi there 👋 My name's Abdelkbir khouilid
+### 👋 Hello! I'm Abdelkbir Khouilid
 
-✅ As a highly skilled and experienced Flutter developer, I have a proven track record of delivering high-quality, user-friendly mobile apps that meet and exceed client expectations. With over 3 years of experience in app development, I have a strong understanding of the latest development trends and technologies, including Dart and Flutter.
+I'm a Senior Mobile Applications Developer with a passion for building high-performance and scalable apps that deliver exceptional user experiences. With over seven years in the field, I thrive on writing clean, maintainable code and collaborating in agile environments to drive impactful solutions.
 
-✅I possess excellent problem-solving skills and am able to quickly adapt to new technologies and programming languages. I am proficient in using Firebase and Google Cloud for backend development. I have a good understanding of app design principles and am able to create visually appealing and responsive user interfaces.
+💼 Experienced in multiple B2B and B2C projects across various industries
 
-✅I am highly organized, self-motivated, and able to manage multiple projects simultaneously. I communicate effectively with clients and team members and am dedicated to meeting project deadlines and delivering high-quality work.
+🚀 Focused on optimizing app performance and staying ahead of emerging technologies
 
-✅I am looking for challenging projects that will allow me to use my skills and experience to create innovative and engaging mobile apps. I am available to work on a full-time or part-time basis and am open to both long-term and short-term projects.
+🌱 Continuously learning and experimenting to improve code quality and user satisfaction
+
 
 [My twitter profile](https://twitter.com/AbdelkbirKhoui1)  
 [My Stack Overflow profile](https://stackoverflow.com/users/12404562/a-khouilid)  
